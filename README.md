@@ -1,1 +1,1 @@
-# Minimum-Absolute-Difference-in-an-Array-algo
+# Minimum-Absolute-Difference-in-an-Array-algo The program first sorts the array so that the smallest absolute differences appear between consecutive elements. It then iterates through the list, computing and tracking the minimum difference between adjacent numbers to find the smallest possible absolute difference.
